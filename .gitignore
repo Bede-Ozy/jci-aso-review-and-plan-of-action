@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Excel lock files
+~$*.xlsx
+~$*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / IDE
+.vscode/
+.idea/
+.env
+venv/
+env/
+
+# Specifically excluded project files
+my_cleaninig_manual.xlsx
+Plan_of_Action_Executive_Dashboard.xlsx
+generate_report_pdf.py
+build_excel_dashboard.py
+reorganize_grain.py
+print_template.html
+inspect_tokens.py
+
